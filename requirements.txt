@@ -1,0 +1,3 @@
+setuptools
+PyQt6
+NumPy
