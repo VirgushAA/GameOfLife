@@ -6,7 +6,7 @@
 Optimization made with using numpy arrays and method convolve from scipy package to process cells life logic
 and creating separate thread for it, so the programm can work on logic and drawing concurently.**
     
-## Технологии
+## Technologies
 
 - Python
 - PyQt
